@@ -17,17 +17,15 @@ sudo ./wso2server.sh
 
 ### 1.4) Once you run the above command give it few minutes to start the WSO2 Identity Server. After few minutes you should see something like this if everything went well and the server is running.
 
-###### Interface before login 
-
 ![Screenshot from 2021-08-05 17-25-53](https://user-images.githubusercontent.com/75664650/128346054-4a16ad25-d63f-4f6e-8eb6-0bbb72667bed.png)
-
-###### Interface after login
-
-![Screenshot from 2021-08-05 17-11-37](https://user-images.githubusercontent.com/75664650/128412384-65d912bd-474d-4988-9f03-c61d1b7102c5.png)
 
 ### 1.5) You can login to the WSO2 identity server by accessing the URL : ```https://localhost:9443/carbon``` . The default username and password is ```admin```. The login interface should look like this
 
+###### Interface before login 
 ![Screenshot from 2021-08-05 17-30-14](https://user-images.githubusercontent.com/75664650/128346405-bd4c1cdb-59cb-4de4-9df5-2cef67d958d4.png)
+
+###### Interface after login
+![Screenshot from 2021-08-05 17-11-37](https://user-images.githubusercontent.com/75664650/128412384-65d912bd-474d-4988-9f03-c61d1b7102c5.png)
 
 ## 2) Downloading Apache Directory Studio from https://directory.apache.org/studio/downloads.html and run it
 
