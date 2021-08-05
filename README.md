@@ -72,7 +72,7 @@ sudo ./ApacheDirectoryStudio
 
 ![AddingUsers](https://user-images.githubusercontent.com/75664650/128352404-a9205779-0bd3-44a9-90d8-6f0364bb3da6.png)
 
-### 4.2) After following the above step you will be redirected to a new window. Click Add New User. ( I have attached a screenshot as well)
+### 4.2) After following the above step you will be redirected to a new page. Click Add New User. ( I have attached a screenshot as well)
 
 ![AddUser1](https://user-images.githubusercontent.com/75664650/128352822-f8cd052b-ebef-40e1-ba91-8ecaa8efea07.png)
 
@@ -125,7 +125,7 @@ sudo ./ApacheDirectoryStudio
 
 ![image](https://user-images.githubusercontent.com/75664650/128358548-38fd7c72-3836-4ee8-bd48-6150b609aef3.png)
 
-### 6.2) The user (eshamaaqib) country is set to United States and the email is set to aaqibesham@gmail.com and Im going to change it to Sri Lanka and and change the email to test@test.com. To do so I went to the Apache Directory Studio and click on my user under ou=User. Once cliced you will see few attributes including the country and mail. To modify double click on the attribute and enter the new value (Screenshot attached below)
+### 6.2) The user (eshamaaqib) country is set to United States and the email is set to aaqibesham@gmail.com and Im going to change it to Sri Lanka and and change the email to test@test.com. To do so I went to the Apache Directory Studio and click on my user under ou=User. Once clicked you will see few attributes including the country and mail. To modify double click on the attribute and enter the new value (Screenshot attached below)
 
 ![editing](https://user-images.githubusercontent.com/75664650/128359297-daf3aa14-b909-432a-8877-35c7ea0e7760.png)
 
