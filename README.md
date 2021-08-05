@@ -72,5 +72,37 @@ sudo ./ApacheDirectoryStudio
 
 ![AddingUsers](https://user-images.githubusercontent.com/75664650/128352404-a9205779-0bd3-44a9-90d8-6f0364bb3da6.png)
 
+### 4.2) After following the above step you will be redirected to a new window. Click Add New User. ( I have attached a screenshot as well)
+
+![AddUser1](https://user-images.githubusercontent.com/75664650/128352822-f8cd052b-ebef-40e1-ba91-8ecaa8efea07.png)
+
+### 4.3) Now you will be prompted to enter a Username, Password. Enter any username and password and click Finish. Now we have successfully added a new user.
+
+### 4.4) Now lets add a role. Follow the same step in 4.1) and click Add New Role. (Screenshot Attached below)
+
+![RoleAdd](https://user-images.githubusercontent.com/75664650/128353459-b48a2916-237b-4626-86c8-82b24f192b20.png)
+
+### 4.5) After following the above step you will be prompted to enter a Role Name. Enter any name you wish and click Finish. Now we have successfully added a role.
+
+### 4.6) Now lets assign the newly created user with the newly created role. Click on List under User and Roles which is in the left hand side. (Screenshot attached below)
+
+![List](https://user-images.githubusercontent.com/75664650/128353909-bcdac48c-277a-49df-9498-894a531bf862.png)
+
+### 4.7) After following the above step you will be redirected to a new page. Click on Users. (Screenshot attached below)
+
+![UserAssign](https://user-images.githubusercontent.com/75664650/128354100-bba8fd1c-c66d-4ae7-81d5-26d9940e603d.png)
+
+### 4.8) Now you will be redirected to a new page. In this page you will find two user one is the user admin and the other is the user that you created previously. In order to assign the newly created role to the new user click Assign Roles (Screenshot attached below)
+
+![Role](https://user-images.githubusercontent.com/75664650/128354489-e232461f-617b-4b3c-9bea-14396c29349c.png)
+
+### 4.9) Now you will see a list of roles including the one you created in the previous steps. Tick the newly created role and click Update (Screenshot attached below)
+
+![Update](https://user-images.githubusercontent.com/75664650/128355004-257cd5a3-7543-45a3-99c4-528fc3cc0e76.png)
+
+### Now we have added a new role, created a new user and assigned that new user to the newly created role.
+
+
+
 
 
