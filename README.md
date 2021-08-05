@@ -102,6 +102,22 @@ sudo ./ApacheDirectoryStudio
 
 ### Now we have added a new role, created a new user and assigned that new user to the newly created role.
 
+## 5) Observing the changes that happened to the LDAP directory when changes were made to the WSO2 Identity Server user profile.
+
+### Before adding the new role there was only a Group called ou=admin under ou=Groups. After adding the new role (I named it as IAMAssignmet) a new group was added called cn=IAMAssignment to ou=Groups.
+
+### Before adding the new user there was only 3 users (uid=admin, uid=krbtgt,uid=ldap) under ou=Users. After adding the new user (I named it as eshamaaqib) a new user was added called uid=eshamaaqib under Ou=Users.
+
+### 
+
+![Screenshot from 2021-08-05 18-13-14](https://user-images.githubusercontent.com/75664650/128356579-8a47e19f-dcf6-4b94-ac0a-186be4da24dd.png)
+
+![Screenshot from 2021-08-05 18-49-26](https://user-images.githubusercontent.com/75664650/128356748-c4c98a7a-ade0-43d2-a7f4-7c9180380033.png)
+
+![Screenshot from 2021-08-05 18-52-05](https://user-images.githubusercontent.com/75664650/128357124-883699dd-2016-4c33-ae8f-26884bb22c96.png)
+
+![Screenshot from 2021-08-05 18-53-24](https://user-images.githubusercontent.com/75664650/128357270-c1892ddb-cc22-4777-a13e-ab996cd015e6.png)
+
 
 
 
