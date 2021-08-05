@@ -19,7 +19,7 @@ sudo ./wso2server.sh
 
 ![Screenshot from 2021-08-05 17-25-53](https://user-images.githubusercontent.com/75664650/128346054-4a16ad25-d63f-4f6e-8eb6-0bbb72667bed.png)
 
-### 1.5) You can login to the WSO2 identity server by visiting the URL : ```https://localhost:9443/carbon``` . The default username and password is ```admin```. The login interface should look like this
+### 1.5) You can login to the WSO2 identity server by accessing the URL : ```https://localhost:9443/carbon``` . The default username and password is ```admin```. The login interface should look like this
 
 ![Screenshot from 2021-08-05 17-30-14](https://user-images.githubusercontent.com/75664650/128346405-bd4c1cdb-59cb-4de4-9df5-2cef67d958d4.png)
 
