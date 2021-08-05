@@ -108,7 +108,7 @@ sudo ./ApacheDirectoryStudio
 
 ### Before adding the new user there was only 3 users (uid=admin, uid=krbtgt,uid=ldap) under ou=Users. After adding the new user (I named it as eshamaaqib) a new user was added called uid=eshamaaqib under Ou=Users.
 
-### 
+### I have attached some before and after screenshots below.
 
 ![Screenshot from 2021-08-05 18-13-14](https://user-images.githubusercontent.com/75664650/128356579-8a47e19f-dcf6-4b94-ac0a-186be4da24dd.png)
 
@@ -119,6 +119,10 @@ sudo ./ApacheDirectoryStudio
 ![Screenshot from 2021-08-05 18-53-24](https://user-images.githubusercontent.com/75664650/128357270-c1892ddb-cc22-4777-a13e-ab996cd015e6.png)
 
 
+## 6) Changing identity server user profile related attributes in the LDAP directory server and observe the changes from WSO2 Identity Server.
 
+### 6.1) Before making changes first I went ahead and added more details of the user (eshamaaqib) by editing the user profile. To do so I went ahead and clicked List under Users and roles in the IS web interface and then clicked on Users then clicked on user profile. Fianlly you should see something like this.
+
+![image](https://user-images.githubusercontent.com/75664650/128358068-ac1edd12-a701-4b02-bfdb-3fa687d18ad1.png)
 
 
