@@ -143,6 +143,22 @@ sudo ./ApacheDirectoryStudio
 
 ![After 3](https://user-images.githubusercontent.com/75664650/128361395-a7f0eb6e-ad31-4e92-b33a-c1998051baf0.png)
 
+## Screenshots 
+
+### 1. Share an image after login in to the running WSO2 Identity Server
+
+![Screenshot from 2021-08-05 17-11-37](https://user-images.githubusercontent.com/75664650/128412384-65d912bd-474d-4988-9f03-c61d1b7102c5.png)
+
+### 2. Share an image after connecting the Apache Directory server to the WSO2 Identity Server
+
+![Screenshot from 2021-08-05 17-14-29](https://user-images.githubusercontent.com/75664650/128412461-2e27b2bd-abfa-4712-a5b5-364fe1a27836.png)
+
+### 3. Share image of the LDAP directory after updating a user, a role and a user profile from the WSO2 Identity Server.
+
+![Screenshot from 2021-08-05 18-52-05](https://user-images.githubusercontent.com/75664650/128412705-ed9324a4-b28e-4e7f-bd8e-c23c674cad3c.png)
+
+
+
 
 
 
