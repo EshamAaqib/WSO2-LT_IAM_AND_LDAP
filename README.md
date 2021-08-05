@@ -66,6 +66,11 @@ sudo ./ApacheDirectoryStudio
 
 ![Screenshot from 2021-08-05 17-57-04](https://user-images.githubusercontent.com/75664650/128349765-3307207e-06fd-468e-892a-e2d631334f72.png)
 
+## 4) Adding a user, a role to the WSO2 IS and update that user profile 
+
+### 4.1) First lets add an User. To do so login to WSO2 IS web interface mentioned in step 1.5. After logging in you should see a list in the left hand side on the browser. Under Users and Roles (1st one) click Add.(I have attached a screenshot below as well.)
+
+![AddingUsers](https://user-images.githubusercontent.com/75664650/128352404-a9205779-0bd3-44a9-90d8-6f0364bb3da6.png)
 
 
 
