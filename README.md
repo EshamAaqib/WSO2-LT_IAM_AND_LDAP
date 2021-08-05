@@ -48,3 +48,24 @@ sudo ./ApacheDirectoryStudio
 
 ![APACHE](https://user-images.githubusercontent.com/75664650/128348405-1c8698ab-f4a5-40c0-a41d-8f68d5285dd6.png)
 
+### 3.2) Afterwards a new windows should open up. Fill in the fields by referring to the screenshot below. 
+
+![Capture](https://user-images.githubusercontent.com/75664650/128348732-e8ea0cf7-0f73-4c26-99cc-ea3da1829d67.PNG)
+
+### 3.3) After filling in the fields like the above screenshot. Click on the Check Network Parameter button and once clicked a new popup should show up and display "The connection was estalished successfully". Now click on Ok and hit next on the main window.
+
+###### WSO2 IS Default LDAP Port number is 10389
+
+### 3.4) Now you will see a new windows. Fill it referring the screenshot below. The password is admin
+
+![Capture1](https://user-images.githubusercontent.com/75664650/128349294-0c451655-c839-4714-8127-0964993db507.PNG)
+
+### 3.5) After filling in the fields like the above screenshot. Click on the Check Authentication button and once clicked a new popup should show up and display "The authentication was successful". Now click on Ok and hit Finish on the main window.
+
+### 3.6) Now we have successfully added WSO2 Identity Server's internal LDAP to Apache Directory Studio and it should look like the screenshot below.
+
+![Screenshot from 2021-08-05 17-57-04](https://user-images.githubusercontent.com/75664650/128349765-3307207e-06fd-468e-892a-e2d631334f72.png)
+
+
+
+
