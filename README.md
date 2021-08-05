@@ -121,8 +121,30 @@ sudo ./ApacheDirectoryStudio
 
 ## 6) Changing identity server user profile related attributes in the LDAP directory server and observe the changes from WSO2 Identity Server.
 
-### 6.1) Before making changes first I went ahead and added more details of the user (eshamaaqib) by editing the user profile. To do so I went ahead and clicked List under Users and roles in the IS web interface and then clicked on Users then clicked on user profile. Fianlly you should see something like this.
+### 6.1) Before making changes first I went ahead and added more details of the user (eshamaaqib) by editing the user profile. To do so I went ahead and clicked List under Users and roles in the IS web interface and then clicked on Users then clicked on user profile. Finally you should see something like this. Fill in the fields and click update
 
-![image](https://user-images.githubusercontent.com/75664650/128358068-ac1edd12-a701-4b02-bfdb-3fa687d18ad1.png)
+![image](https://user-images.githubusercontent.com/75664650/128358548-38fd7c72-3836-4ee8-bd48-6150b609aef3.png)
+
+### 6.2) The user (eshamaaqib) country is set to United States and the email is set to aaqibesham@gmail.com and Im going to change it to Sri Lanka and and change the email to test@test.com. To do so I went to the Apache Directory Studio and click on my user under ou=User. Once cliced you will see few attributes including the country and mail. To modify double click on the attribute and enter the new value (Screenshot attached below)
+
+![editing](https://user-images.githubusercontent.com/75664650/128359297-daf3aa14-b909-432a-8877-35c7ea0e7760.png)
+
+### I have attached some after and before screenshots below.
+
+![Before 1](https://user-images.githubusercontent.com/75664650/128361337-4d20ea60-3f44-4aea-860d-77759b6150d9.png)
+
+![Before 2](https://user-images.githubusercontent.com/75664650/128361358-1c6b3355-910b-4148-b21a-26449f105873.png)
+
+![Before 3](https://user-images.githubusercontent.com/75664650/128361370-2f9f7cfb-dde2-4be4-b9d6-231d7832826f.png)
+
+![After 1](https://user-images.githubusercontent.com/75664650/128361380-1fd19071-bc83-4386-9891-b18527d5179f.png)
+
+![After 2](https://user-images.githubusercontent.com/75664650/128361387-55462429-d0fa-4eaa-9bd1-24afdb63134e.png)
+
+![After 3](https://user-images.githubusercontent.com/75664650/128361395-a7f0eb6e-ad31-4e92-b33a-c1998051baf0.png)
+
+
+
+
 
 
